@@ -1,16 +1,14 @@
 ### Hi there 👋
+***seja bem vindo ao meu perfil*** 👱‍♂️
 
-<!--
-**cristianocarlos10/cristianocarlos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o professor Cristiano
+Sou professor de Robótica, pensamento  computacional e biologia.
 
-Here are some ideas to get you started:
+entre em contato pelo email:
+cristiano.carlos@escola.pr.gov.br 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![image](https://github.com/cristianocarlos10/cristianocarlos10/assets/134663680/3ffbef01-398a-4a9d-b05c-d8eb883ff45d)
+
+![image](https://github.com/cristianocarlos10/cristianocarlos10/assets/134663680/2aaded20-717d-4210-aa20-99a1ee60398b)
