@@ -1,7 +1,9 @@
 ### Hi there 👋
 ***seja bem vindo ao meu perfil*** 👱‍♂️
 
-Sou o professor Cristiano
+Sou o professo  Cristiano.
+
+
 Sou professor de Robótica, pensamento  computacional e biologia.
 
 entre em contato pelo email:
